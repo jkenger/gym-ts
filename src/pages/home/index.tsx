@@ -18,7 +18,7 @@ const Home = ({ setSelectedPage }: Props) => {
 
   return (
     <section
-      id="#home"
+      id="home"
       className="gap-16 bg-gray-20 pb-10 pt-10 md:full md:pb-0"
     >
       {/* Image and Main Header */}

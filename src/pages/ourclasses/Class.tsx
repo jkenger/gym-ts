@@ -7,11 +7,11 @@ type Props = {
 
 const Class = ({ item: { name, description, image } }: Props) => {
   const overLayStyles = `opacity-0 transition duration-500
-   hover:opacity-90 p-5 absolute  z-30 flex h-[380px] 
+   hover:opacity-90 p-5 absolute  z-10 flex h-[380px] 
    w-full flex-col items-center justify-center whitespace-normal bg-primary-500 text-center`;
 
   return (
-    <li className="relative mx-5 inline-block h-[380px]">
+    <li className="relative mx-4 inline-block h-[380px]">
       <div className={overLayStyles}>
         <p>{name}</p>
         <p>{description}</p>
