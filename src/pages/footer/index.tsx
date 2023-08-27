@@ -1,13 +1,7 @@
 import HText from "@/shared/HText";
-import { SelectedPage } from "@/shared/types";
-import React from "react";
 import Logo from "@/assets/Logo.png";
 
-type Props = {
-  setSelectedPage: (selectedPage: SelectedPage) => void;
-};
-
-const Footer = ({ setSelectedPage }: Props) => {
+const Footer = () => {
   return (
     <section id="footer" className="w-full bg-primary-100">
       <div className="w-5/6 mx-auto pt-24 pb-16">
