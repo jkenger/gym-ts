@@ -56,8 +56,6 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Team
 
-[![Ken Gervacio](https://avatars.githubusercontent.com/u/73566770?v=4)](https://github.com/jkenger) 
-
 [Ken Gervacio ](https://github.com/jkenger) |[LinkedIn](https://www.linkedin.com/in/gervacioken/)
 
 ## [License]()
