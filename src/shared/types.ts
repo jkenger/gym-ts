@@ -16,3 +16,4 @@ export interface ClassType {
   description?: string;
   image: string;
 }
+s;
